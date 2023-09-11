@@ -1,0 +1,7 @@
+pygame
+regex
+mutagen
+yt-dlp
+pytube
+pydub
+pypresence
